@@ -1,3 +1,4 @@
-# 2013
+# labib-site
+goal: a dynamic personal website whose contents I never have to update
 
-It's been 2 years since I redesigned my site. Trying out some new ideas.
+credits to [Kevin Burke](https://kev.inburke.com/)
