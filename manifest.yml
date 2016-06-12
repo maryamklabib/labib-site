@@ -1,0 +1,4 @@
+---
+applications:
+ - name: maryamlabib
+ - memory: 512M
