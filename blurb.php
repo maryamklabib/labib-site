@@ -2,7 +2,7 @@
     <div>
         <a href="/" title="Back to the homepage">
             <img id="logo"
-                src="<?php echo get_stylesheet_directory_uri(); ?>/img/kevin-mask-blue.png" alt="Kevin Burke" />
+                src="<?php echo get_stylesheet_directory_uri(); ?>/img/kevin-mask-blue.png" alt="Maryam Labib" />
         </a>
     </div>
     <div id="blurb-text">
